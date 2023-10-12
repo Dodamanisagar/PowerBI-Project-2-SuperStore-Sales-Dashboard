@@ -1,11 +1,11 @@
 # PowerBI-Project-2-SuperStore-Sales-Dashboard
-##Dashboard:-
+## Dashboard:-
 
 ![Screenshot 2023-10-12 130738](https://github.com/Dodamanisagar/PowerBI-Project-2-SuperStore-Sales-Dashboard/assets/99800998/ede4b095-8e63-44f4-921e-c34ee3523686)
 
 
 
-##Forcasting:-
+## Forcasting:-
 
 
 ![Screenshot 2023-10-12 130758](https://github.com/Dodamanisagar/PowerBI-Project-2-SuperStore-Sales-Dashboard/assets/99800998/6e21374a-1f02-4224-9cf6-ee01fd8af357)
