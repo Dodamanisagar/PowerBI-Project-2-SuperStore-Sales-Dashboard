@@ -25,7 +25,8 @@ To contribute to the success of a business by utilizing data analysis techniques
 - DAX in Power BI - Measures and Calculations in Power BI 
 - Charts in Power BI 
 - Filters and Slicers in Power BI 
-- Dashboard in Power BI 
+- Dashboard in Power BI
+- Forecasting 15 days data
 - Export Power BI Dashboard
 - Insights from Dashboard
 
