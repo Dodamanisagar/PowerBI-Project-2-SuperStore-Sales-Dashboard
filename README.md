@@ -7,8 +7,8 @@
 
 ## Forcasting:-
 
+![Screenshot 2023-10-12 133335](https://github.com/Dodamanisagar/PowerBI-Project-2-SuperStore-Sales-Dashboard/assets/99800998/d4c0a4b2-7f2f-4da9-969e-2916a2888a21)
 
-![Screenshot 2023-10-12 130758](https://github.com/Dodamanisagar/PowerBI-Project-2-SuperStore-Sales-Dashboard/assets/99800998/6e21374a-1f02-4224-9cf6-ee01fd8af357)
 
 
 
