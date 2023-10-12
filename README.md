@@ -31,7 +31,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 
 ℹ️ This dashboard is completely dynamic and interactive and is operated by using the filters.  
-ℹ️ It displays key insights related to Superstore Total sales, Quantity, Profit, Sum of sales by month and year, Sales by category, Sales by sub-category, Sum of profit by month and year, Sum of sales by segments, Sum of sales by payment mode, Sum of sales by region .
+ℹ️ It displays key insights related to Superstores Total sales, Quantity, Profit, Sum of sales by month and year, Sales by category, Sales by sub-category, Sum of profit by month and year,Sales by ship mode, Sum of sales by segments, Sum of sales by payment mode, Sum of sales by region .
 
 
 ### TOOL USED :-
